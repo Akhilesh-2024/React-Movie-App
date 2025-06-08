@@ -40,13 +40,13 @@ npm run preview
 ```
 
 ## Project Structure
-public/
-src/
-├── components/   # Reusable components (Search bar, MovieCard, etc.)
-├── pages/        # Page components (Home, MovieDetail, etc.)
-├── App.jsx       # App component and route definitions
-└── main.jsx      # Vite entry point
-.gitignore
-package.json
-vite.config.js
-.env
+- public/
+- src/
+- ├── components/   # Reusable components (Search bar, MovieCard, etc.)
+- ├── pages/        # Page components (Home, MovieDetail, etc.)
+- ├── App.jsx       # App component and route definitions
+- └── main.jsx      # Vite entry point
+- .gitignore
+- package.json
+- vite.config.js
+- .env
